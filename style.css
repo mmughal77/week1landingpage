@@ -1,0 +1,101 @@
+nav
+{background-color: black}
+
+section.hero 
+    {    /* Sizing */
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    /* Background styles */
+    background-image: url(https://www.toursbylocals.com/images/areas/2016223142236469.jpg);
+    background-size: cover;
+    background-position: center center;
+
+    /* Text */
+    color:white;
+    text-align:center; 
+    padding-top: 7rem !important;
+    padding-bottom: 5rem !important;}
+
+section.hero h1
+    {font-size:7em}
+section.hero h2
+    {font-size:4em}
+section.hero h3
+    {font-size:3em;
+    color:purple}
+
+
+section.benefits
+    {color:black;
+    background-color: white; 
+    text-align:center; 
+    font-size: 2em;
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;
+    margin-inline-start: 150px;
+    margin-inline-end: 150px;}
+
+section.products
+    {color:black;
+    background-color: black; 
+    text-align:center; 
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;}
+
+section.calltoaction
+    {color:black;
+    background-color: white;
+    text-align:center; 
+    font-size: 4em;
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;
+
+    /* Sizing */
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    /* Background styles */
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EznQYqlbC-wgyQHGrn3GvIglKfZ-Gi5MaRYPiPZS2CNP30JIVw);
+    background-size: cover;
+    background-position: center center;}
+
+    .coupon 
+        {border: 5px dotted #bbb; /* Dotted border */
+        width: 80%; 
+        border-radius: 15px; /* Rounded border */
+        margin: 0 auto; /* Center the coupon */
+        max-width: 500px; 
+        background-color: #f1f1f1}
+      
+    .promo 
+        {background: #ccc;
+        padding: 3px}
+     
+section.trust
+    {color:black;
+    background-color: white; 
+    text-align:center; 
+    font-size: 3em;
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;}
+
+
+section.footer
+    {color:white;
+    background-color: black; 
+    text-align:center; 
+    font-size: 1.5em;
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;}
+
+    section.footer a 
+        {color:white}
